@@ -1,0 +1,6 @@
+smiles,label
+CCO,antibacterial
+CCN(CC)CC,antiviral
+CC(C)CC,anti-inflammatory
+C1=CC=CC=C1,anticancer
+CC(=O)O,analgesic
